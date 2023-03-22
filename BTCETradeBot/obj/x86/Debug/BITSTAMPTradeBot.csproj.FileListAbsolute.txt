@@ -1,0 +1,75 @@
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BTCETradeBot\bin\Debug\BITSTAMPTradeBot.exe.config
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BTCETradeBot\bin\Debug\BITSTAMPTradeBot.exe
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BTCETradeBot\bin\Debug\BITSTAMPTradeBot.pdb
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BTCETradeBot\bin\Debug\BitstampApi.dll
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BTCETradeBot\bin\Debug\RestSharp.dll
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BTCETradeBot\bin\Debug\Newtonsoft.Json.dll
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BTCETradeBot\bin\Debug\BitstampApi.pdb
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BTCETradeBot\bin\Debug\RestSharp.xml
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.csprojResolveAssemblyReference.cache
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BTCETradeBot\obj\x86\Debug\BTCETradeBot.frmMain.resources
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BTCETradeBot\obj\x86\Debug\BTCETradeBot.frmAbout.resources
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BTCETradeBot\obj\x86\Debug\BTCETradeBot.Properties.Resources.resources
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.csproj.GenerateResource.Cache
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.exe
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.pdb
+F:\free lancer work\2017-8\bitcoin-bot\complete version\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\BITSTAMPTradeBot.exe.config
+F:\free lancer work\2017-8\bitcoin-bot\complete version\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.exe
+F:\free lancer work\2017-8\bitcoin-bot\complete version\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.pdb
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\BITSTAMPTradeBot.exe.config
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\BITSTAMPTradeBot.exe
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\BITSTAMPTradeBot.pdb
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\BitstampApi.dll
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\RestSharp.dll
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\BitstampApi.pdb
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\RestSharp.xml
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.csprojResolveAssemblyReference.cache
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BTCETradeBot.frmMain.resources
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BTCETradeBot.frmAbout.resources
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BTCETradeBot.Properties.Resources.resources
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.csproj.GenerateResource.Cache
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.exe
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.pdb
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.csprojAssemblyReference.cache
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.exe
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.pdb
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\BITSTAMPTradeBot.exe.config
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\BITSTAMPTradeBot.exe
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\BITSTAMPTradeBot.pdb
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\BitstampApi.dll
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\RestSharp.dll
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\BitstampApi.pdb
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\RestSharp.xml
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BTCETradeBot.frmMain.resources
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BTCETradeBot.frmAbout.resources
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BTCETradeBot.Properties.Resources.resources
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.csproj.GenerateResource.cache
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.csproj.CoreCompileInputs.cache
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.csproj.CopyComplete
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\BITSTAMPTradeBot.exe.config
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\BITSTAMPTradeBot.exe
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\BITSTAMPTradeBot.pdb
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\BitstampApi.dll
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\EntityFramework.dll
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\RestSharp.dll
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\System.Data.SQLite.dll
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\BitstampApi.pdb
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\EntityFramework.xml
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\RestSharp.xml
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\bin\Debug\System.Data.SQLite.xml
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.csproj.AssemblyReference.cache
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BTCETradeBot.frmMain.resources
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BTCETradeBot.frmAbout.resources
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BTCETradeBot.Properties.Resources.resources
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.csproj.GenerateResource.cache
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.csproj.CoreCompileInputs.cache
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.csproj.CopyComplete
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.exe
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BTCETradeBot\obj\x86\Debug\BITSTAMPTradeBot.pdb

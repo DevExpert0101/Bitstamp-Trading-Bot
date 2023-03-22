@@ -1,0 +1,21 @@
+Z:\Dropbox\0 Files\Projects\BTC\BTCETradeBot\BtceApi\bin\Debug\BtceApi.dll
+Z:\Dropbox\0 Files\Projects\BTC\BTCETradeBot\BtceApi\bin\Debug\BtceApi.pdb
+Z:\Dropbox\0 Files\Projects\BTC\BTCETradeBot\BtceApi\obj\X64\Debug\BtceApi.dll
+Z:\Dropbox\0 Files\Projects\BTC\BTCETradeBot\BtceApi\obj\X64\Debug\BtceApi.pdb
+D:\User Files\MohammadSaleh\Desktop\BTCETradeBot Version 1.0.5135.17368 Source\BtceApi\bin\Debug\BtceApi.dll
+D:\User Files\MohammadSaleh\Desktop\BTCETradeBot Version 1.0.5135.17368 Source\BtceApi\bin\Debug\BtceApi.pdb
+D:\User Files\MohammadSaleh\Desktop\BTCETradeBot Version 1.0.5135.17368 Source\BtceApi\bin\Debug\Newtonsoft.Json.dll
+D:\User Files\MohammadSaleh\Desktop\BTCETradeBot Version 1.0.5135.17368 Source\BtceApi\obj\X64\Debug\BtceApi.csprojResolveAssemblyReference.cache
+D:\User Files\MohammadSaleh\Desktop\BTCETradeBot Version 1.0.5135.17368 Source\BtceApi\obj\X64\Debug\BtceApi.dll
+D:\User Files\MohammadSaleh\Desktop\BTCETradeBot Version 1.0.5135.17368 Source\BtceApi\obj\X64\Debug\BtceApi.pdb
+D:\User Files\MohammadSaleh\Desktop\LAB\BTCETradeBot Version 1.0.5135.17368 Source\BtceApi\bin\Debug\BtceApi.dll
+D:\User Files\MohammadSaleh\Desktop\LAB\BTCETradeBot Version 1.0.5135.17368 Source\BtceApi\bin\Debug\BtceApi.pdb
+D:\User Files\MohammadSaleh\Desktop\LAB\BTCETradeBot Version 1.0.5135.17368 Source\BtceApi\bin\Debug\Newtonsoft.Json.dll
+D:\User Files\MohammadSaleh\Desktop\LAB\BTCETradeBot Version 1.0.5135.17368 Source\BtceApi\obj\X64\Debug\BtceApi.csprojResolveAssemblyReference.cache
+D:\User Files\MohammadSaleh\Desktop\LAB\BTCETradeBot Version 1.0.5135.17368 Source\BtceApi\obj\X64\Debug\BtceApi.dll
+D:\User Files\MohammadSaleh\Desktop\LAB\BTCETradeBot Version 1.0.5135.17368 Source\BtceApi\obj\X64\Debug\BtceApi.pdb
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BtceApi\bin\Debug\BtceApi.dll
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BtceApi\bin\Debug\BtceApi.pdb
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BtceApi\obj\X64\Debug\BtceApi.csprojResolveAssemblyReference.cache
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BtceApi\obj\X64\Debug\BtceApi.dll
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BtceApi\obj\X64\Debug\BtceApi.pdb

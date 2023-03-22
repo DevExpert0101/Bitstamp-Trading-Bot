@@ -1,0 +1,26 @@
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BtceApi\bin\Debug\BitstampApi.dll
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BtceApi\bin\Debug\BitstampApi.pdb
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BtceApi\obj\X64\Debug\BitstampApi.dll
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BtceApi\obj\X64\Debug\BitstampApi.pdb
+H:\Ongoing Projects 2017\BTCETradeBot Version 1.0.5169.19956 Source\BtceApi\obj\X64\Debug\BitstampApi.csprojResolveAssemblyReference.cache
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BtceApi\bin\Debug\BitstampApi.dll
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BtceApi\bin\Debug\BitstampApi.pdb
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BtceApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BtceApi\obj\X64\Debug\BitstampApi.csprojResolveAssemblyReference.cache
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BtceApi\obj\X64\Debug\BitstampApi.dll
+C:\Users\Emian.Ouattara\Documents\BITSTAMPTradeBot(2017-8-18)\BtceApi\obj\X64\Debug\BitstampApi.pdb
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BtceApi\bin\Debug\BitstampApi.dll
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BtceApi\bin\Debug\BitstampApi.pdb
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BtceApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BtceApi\obj\X64\Debug\BitstampApi.csprojAssemblyReference.cache
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BtceApi\obj\X64\Debug\BitstampApi.csproj.CoreCompileInputs.cache
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BtceApi\obj\X64\Debug\BitstampApi.csproj.CopyComplete
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BtceApi\obj\X64\Debug\BitstampApi.dll
+C:\Users\Chahu\Desktop\final_dwonload_2020_10_25_close_error_no_licence\bistamp2\BITSTAMPTradeBot(2017-8-18)\BtceApi\obj\X64\Debug\BitstampApi.pdb
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BtceApi\bin\Debug\BitstampApi.dll
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BtceApi\bin\Debug\BitstampApi.pdb
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BtceApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BtceApi\obj\X64\Debug\BitstampApi.csproj.CoreCompileInputs.cache
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BtceApi\obj\X64\Debug\BitstampApi.csproj.CopyComplete
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BtceApi\obj\X64\Debug\BitstampApi.dll
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BtceApi\obj\X64\Debug\BitstampApi.pdb

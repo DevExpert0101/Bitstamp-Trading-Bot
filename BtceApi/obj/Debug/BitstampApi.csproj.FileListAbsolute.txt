@@ -1,0 +1,8 @@
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BtceApi\bin\Debug\BitstampApi.dll
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BtceApi\bin\Debug\BitstampApi.pdb
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BtceApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BtceApi\obj\Debug\BitstampApi.csproj.AssemblyReference.cache
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BtceApi\obj\Debug\BitstampApi.csproj.CoreCompileInputs.cache
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BtceApi\obj\Debug\BitstampApi.csproj.CopyComplete
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BtceApi\obj\Debug\BitstampApi.dll
+C:\Users\Rabbit\OneDrive\Desktop\BITSTAMPTradeBot(2017-8-18)\BtceApi\obj\Debug\BitstampApi.pdb

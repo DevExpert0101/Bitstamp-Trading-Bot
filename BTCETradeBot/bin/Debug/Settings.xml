@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<SettingsObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Key />
+  <Secret />
+  <CID />
+  <FirstUse>false</FirstUse>
+  <AppRequestMode>SmoothHttpRequest</AppRequestMode>
+  <AutoStart>true</AutoStart>
+  <UpdateIntervalms>15000</UpdateIntervalms>
+  <AllowTrade>true</AllowTrade>
+  <AllowSell>true</AllowSell>
+  <AllowBuy>true</AllowBuy>
+  <BuyDeltaThreshold>0.001</BuyDeltaThreshold>
+  <SellDeltaThreshold>-0.001</SellDeltaThreshold>
+  <BuyProfit>0.002</BuyProfit>
+  <SellProfit>0.002</SellProfit>
+  <ConsiderFeeInSell>true</ConsiderFeeInSell>
+  <ConsiderFeeInBuy>true</ConsiderFeeInBuy>
+  <BuyAmount>0.0104</BuyAmount>
+  <SellAmount>0.0104</SellAmount>
+  <AmountRoundDigits>8</AmountRoundDigits>
+  <RateRoundDigits>3</RateRoundDigits>
+  <CancelOrders>true</CancelOrders>
+  <CancelOrderTimeoutms>10000</CancelOrderTimeoutms>
+  <Username />
+  <Password />
+  <SeperateDays>true</SeperateDays>
+  <LimitBuyOrders>true</LimitBuyOrders>
+  <LimitBuyOrdersValue>1</LimitBuyOrdersValue>
+  <LimitSellOrders>true</LimitSellOrders>
+  <LimitSellOrdersValue>1</LimitSellOrdersValue>
+  <CancelBuyOrders>false</CancelBuyOrders>
+  <CancelBuyOrdersTimeout>240</CancelBuyOrdersTimeout>
+  <CancelSellyOrders>false</CancelSellyOrders>
+  <CancelSellOrdersTimeout>240</CancelSellOrdersTimeout>
+  <BuyCondition>true</BuyCondition>
+  <SellCondition>false</SellCondition>
+  <UseTrueTruePermission>false</UseTrueTruePermission>
+  <activePair>btceur</activePair>
+  <History />
+  <AutoCheckForUpdate>true</AutoCheckForUpdate>
+</SettingsObject>
